@@ -19,8 +19,7 @@
  * Input.
  */
 
-//jsdoc
-  function buttonClicked() {
+/**JSDoc*/function buttonClicked() {
 
   const age = parseInt(document.getElementById('age').value)
 
